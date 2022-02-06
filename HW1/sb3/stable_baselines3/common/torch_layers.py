@@ -5,9 +5,9 @@ import gym
 import torch as th
 from torch import nn
 
-from stable_baselines3.common.preprocessing import get_flattened_obs_dim, is_image_space
-from stable_baselines3.common.type_aliases import TensorDict
-from stable_baselines3.common.utils import get_device
+from sb3.stable_baselines3.common.preprocessing import get_flattened_obs_dim, is_image_space
+from sb3.stable_baselines3.common.type_aliases import TensorDict
+from sb3.stable_baselines3.common.utils import get_device
 
 
 class BaseFeaturesExtractor(nn.Module):

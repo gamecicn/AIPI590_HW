@@ -16,9 +16,9 @@ from typing import Any, Dict, Optional, Tuple, Union
 import cloudpickle
 import torch as th
 
-import stable_baselines3 as sb3
-from stable_baselines3.common.type_aliases import TensorDict
-from stable_baselines3.common.utils import get_device, get_system_info
+import sb3.stable_baselines3 as sb3
+from sb3.stable_baselines3.common.type_aliases import TensorDict
+from sb3.stable_baselines3.common.utils import get_device, get_system_info
 
 
 def recursive_getattr(obj: Any, attr: str, *args) -> Any:

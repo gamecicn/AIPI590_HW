@@ -11,7 +11,7 @@ import gym
 import numpy as np
 import pandas
 
-from stable_baselines3.common.type_aliases import GymObs, GymStepReturn
+from sb3.stable_baselines3.common.type_aliases import GymObs, GymStepReturn
 
 
 class Monitor(gym.Wrapper):
