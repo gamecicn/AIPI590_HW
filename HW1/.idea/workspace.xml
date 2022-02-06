@@ -9,82 +9,59 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="HW1" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="dev_a2c_nsteps.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dev_a2c_nsteps.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="td3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sb3/stable_baselines3/td3/td3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="28" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="28" />
+            <state relative-caret-position="353">
+              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
               <folding>
-                <element signature="e#0#64#0" expanded="true" />
+                <element signature="e#2#12#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sac.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sb3/stable_baselines3/sac/sac.py">
+      <file leaf-file-name="buffers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sb3/stable_baselines3/common/buffers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sb3/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="policies.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sb3/stable_baselines3/td3/policies.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="231">
+              <caret line="408" selection-start-line="408" selection-end-line="408" />
               <folding>
-                <element signature="e#0#57#0" expanded="true" />
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="subproc_vec_env.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sb3/stable_baselines3/common/vec_env/subproc_vec_env.py">
+      <file leaf-file-name="on_policy_algorithm.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sb3/stable_baselines3/common/on_policy_algorithm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dummy_vec_env.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sb3/stable_baselines3/common/vec_env/dummy_vec_env.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-408">
-              <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+            <state relative-caret-position="289">
+              <caret line="211" column="17" selection-start-line="211" selection-start-column="17" selection-end-line="211" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>compute_returns_and_advantage</find>
+      <find>dones</find>
+      <find>last_values</find>
+    </findStrings>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/sb3/stable_baselines3/ddpg/__init__.py" />
         <option value="$PROJECT_DIR$/sb3/stable_baselines3/her/__init__.py" />
         <option value="$PROJECT_DIR$/sb3/stable_baselines3/ppo/__init__.py" />
         <option value="$PROJECT_DIR$/sb3/stable_baselines3/sac/__init__.py" />
@@ -117,7 +94,6 @@
         <option value="$PROJECT_DIR$/sb3/stable_baselines3/common/env_util.py" />
         <option value="$PROJECT_DIR$/sb3/stable_baselines3/common/env_checker.py" />
         <option value="$PROJECT_DIR$/sb3/stable_baselines3/common/distributions.py" />
-        <option value="$PROJECT_DIR$/sb3/stable_baselines3/common/buffers.py" />
         <option value="$PROJECT_DIR$/sb3/stable_baselines3/common/atari_wrappers.py" />
         <option value="$PROJECT_DIR$/sb3/stable_baselines3/common/envs/bit_flipping_env.py" />
         <option value="$PROJECT_DIR$/sb3/stable_baselines3/common/envs/identity_env.py" />
@@ -134,15 +110,17 @@
         <option value="$PROJECT_DIR$/sb3/stable_baselines3/common/vec_env/subproc_vec_env.py" />
         <option value="$PROJECT_DIR$/sb3/stable_baselines3/td3/td3.py" />
         <option value="$PROJECT_DIR$/sb3/stable_baselines3/sac/sac.py" />
+        <option value="$PROJECT_DIR$/sb3/stable_baselines3/a2c/a2c.py" />
+        <option value="$PROJECT_DIR$/sb3/stable_baselines3/common/buffers.py" />
         <option value="$PROJECT_DIR$/dev_a2c_nsteps.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="409" />
+    <option name="y" value="19" />
     <option name="width" value="1616" />
-    <option name="height" value="876" />
+    <option name="height" value="865" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -160,6 +138,19 @@
               <item name="HW1" type="b2602c69:ProjectViewProjectNode" />
               <item name="HW1" type="462c0819:PsiDirectoryNode" />
               <item name="sb3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HW1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW1" type="462c0819:PsiDirectoryNode" />
+              <item name="sb3" type="462c0819:PsiDirectoryNode" />
+              <item name="stable_baselines3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HW1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW1" type="462c0819:PsiDirectoryNode" />
+              <item name="sb3" type="462c0819:PsiDirectoryNode" />
+              <item name="stable_baselines3" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -207,6 +198,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="buffers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HW1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sb3/stable_baselines3/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sb3/stable_baselines3/common/buffers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="dev_a2c_nsteps" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HW1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -220,6 +229,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dev_a2c_nsteps.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="on_policy_algorithm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HW1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sb3/stable_baselines3/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sb3/stable_baselines3/common/on_policy_algorithm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,56 +270,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="subproc_vec_env" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="HW1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sb3/stable_baselines3/common/vec_env" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sb3/stable_baselines3/common/vec_env/subproc_vec_env.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="td3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="HW1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sb3/stable_baselines3/td3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sb3/stable_baselines3/td3/td3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
-      <item itemvalue="Python.subproc_vec_env" />
-      <item itemvalue="Python.td3" />
       <item itemvalue="Python.sac" />
       <item itemvalue="Python.a2c" />
       <item itemvalue="Python.dev_a2c_nsteps" />
+      <item itemvalue="Python.buffers" />
+      <item itemvalue="Python.on_policy_algorithm" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.dev_a2c_nsteps" />
+        <item itemvalue="Python.on_policy_algorithm" />
+        <item itemvalue="Python.buffers" />
         <item itemvalue="Python.a2c" />
         <item itemvalue="Python.sac" />
-        <item itemvalue="Python.td3" />
-        <item itemvalue="Python.subproc_vec_env" />
       </list>
     </recent_temporary>
   </component>
@@ -310,20 +301,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="370" y="0" width="1616" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13804004" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49779737" visible="true" weight="0.16603296" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32900432" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3690476" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5038251" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.37554112" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.23060109" />
+      <window_info id="Favorites" sideWeight="0.50220263" side_tool="true" visible="true" weight="0.16603296" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -337,6 +328,13 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sb3/stable_baselines3/common/buffers.py</url>
+          <line>408</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -344,40 +342,65 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="1" />
+      <option name="time" value="21" />
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="stack_dict" />
+        <watch expression="result" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>self._update_learning_rate</expression-string>
+        <expression-string>self.returns[i]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>1.0 - self.episode_starts[step + 1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.episode_starts[step + 1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.episode_starts</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>last_values.clone().cpu().numpy().flatten()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>last_values = last_values.clone().cpu().numpy().flatten()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>last_values.cpu().values()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>last_values.values()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dones</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sb3/stable_baselines3/dqn/dqn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sb3/stable_baselines3/dqn/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sb3/stable_baselines3/ddpg/policies.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sb3/stable_baselines3/ddpg/ddpg.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -455,13 +478,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sb3/stable_baselines3/common/on_policy_algorithm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sb3/stable_baselines3/common/off_policy_algorithm.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -526,13 +542,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="151">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sb3/stable_baselines3/common/buffers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -737,10 +746,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sb3/stable_baselines3/a2c/policies.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sb3/tests/test_train_eval_mode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="325" column="14" selection-start-line="325" selection-start-column="14" selection-end-line="325" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sb3/stable_baselines3/a2c/a2c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2148">
+          <caret line="191" column="44" lean-forward="true" selection-start-line="191" selection-start-column="44" selection-end-line="191" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sb3/stable_baselines3/common/buffers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="408" selection-start-line="408" selection-end-line="408" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sb3/stable_baselines3/common/on_policy_algorithm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="211" column="17" selection-start-line="211" selection-start-column="17" selection-end-line="211" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dev_a2c_nsteps.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        <state relative-caret-position="353">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <element signature="e#2#12#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

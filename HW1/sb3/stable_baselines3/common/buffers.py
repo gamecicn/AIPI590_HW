@@ -380,6 +380,10 @@ class RolloutBuffer(BaseBuffer):
         :param dones: if the last step was a terminal step (one bool for each env).
         """
         # Convert to numpy
+
+        """
+        #GAE 
+         
         last_values = last_values.clone().cpu().numpy().flatten()
 
         last_gae_lam = 0
@@ -396,6 +400,22 @@ class RolloutBuffer(BaseBuffer):
         # TD(lambda) estimator, see Github PR #375 or "Telescoping in TD(lambda)"
         # in David Silver Lecture 4: https://www.youtube.com/watch?v=PnHCvfgC_ZA
         self.returns = self.advantages + self.values
+        """
+
+        # n-steps
+        last_values = last_values.clone().cpu().numpy().flatten()
+        R = last_values
+
+        for i, step in enumerate(reversed(range(self.buffer_size))):
+            if step == self.buffer_size - 1:
+                next_non_terminal = 1.0 - dones
+            else:
+                next_non_terminal = 1.0 - self.episode_starts[step + 1]
+
+            R = self.rewards[step] + self.gamma * R * next_non_terminal
+
+            self.returns[i] = R
+
 
     def add(
         self,
